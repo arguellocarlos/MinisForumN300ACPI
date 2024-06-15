@@ -22,7 +22,7 @@ dmesg output:
 [    6.507758] ACPI BIOS Error (bug): Could not resolve symbol [\_SB.UBTC.RUCC], AE_NOT_FOUND (20230628/psargs-330)
 [    6.507768] ACPI Error: Aborting method \_SB.PC00.TXHC.RHUB.SS01._PLD due to previous error (AE_NOT_FOUND) (20230628/psparse-529)
 ```
-chroot sequence (Live Fedora 40):
+chroot sequence (Live Fedora Workstation 40):
 
 ```
 cd /
